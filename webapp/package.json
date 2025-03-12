@@ -15,9 +15,9 @@
         "brunch": "1.7.13",
         "javascript-brunch": ">= 1.0 < 1.8",
         "css-brunch": ">= 1.0 < 1.8",
-        "uglify-js-brunch": ">= 1.0 < 1.8",
-        "clean-css-brunch": ">= 1.0 < 1.8",
-        "handlebars-brunch": "1.10.1",
+        "uglify-js-brunch": ">=2.10.0",
+        "clean-css-brunch": ">=3.0.0",
+        "handlebars-brunch": "2.10.0",
         "coffee-script-brunch": ">= 1.0 < 1.8",
         "sass-brunch": "1.7.0"
     }
